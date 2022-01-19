@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+button{
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 50px;
+    letter-spacing: 1px;
+    padding: 10px 50px;
+    box-shadow: 4px 3px 5px darkblue;
+    display: inline;
+    text-align: center;
+    text-transform: uppercase;
+    cursor:pointer;
+}
